@@ -10,11 +10,26 @@
 ](https://www.youtube.com/watch?v=feAOZuID1HM&list=PLggtecHMfYHA7j2rF7nZFgnepu_uPuYws&ab_channel=EducationArchive)
 
 ## Troubleshooting
-- Resources:
+- Useful resources:
   - [Linux Performance Analysis in 60,000 Milliseconds](https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
-  - [Zines](https://wizardzines.com/zines/debugging/)  
+  - [Zines](https://wizardzines.com/zines/debugging/)
 
-
+## System Design:
+- Books:
+  - [Design Data Intensive Applications](https://www.amazon.co.uk/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=asc_df_1449373321/?tag=googshopuk-21&linkCode=df0&hvadid=310831942794&hvpos=&hvnetw=g&hvrand=809502831767025474&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1006907&hvtargid=pla-432535594773&psc=1&th=1&psc=1)
+- Courses(paid):
+  - [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+  - [Grokking the Advanced System Design Interview](https://www.educative.io/courses/grokking-adv-system-design-intvw)
+- Useful links:
+  - [Git repo - The System Design Primer](https://github.com/donnemartin/system-design-primer)
+- Real world examples:
+  - [Bigtable](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
+  - [Mapreduce](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
+  - [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
+  - [Murder: Fast datacenter code deploys using BitTorrent](https://blog.twitter.com/engineering/en_us/a/2010/murder-fast-datacenter-code-deploys-using-bittorrent)
+- Youtube
+  - [Infoq](https://www.youtube.com/nctv)
+  - [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 
 ## Contributing
 
