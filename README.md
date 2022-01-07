@@ -33,7 +33,10 @@
 
 ## Network:
 - Books:
-  - [TCP/IP Illustrated, Volume 1: The Protocols] (https://www.amazon.co.uk/TCP-Illustrated-Protocols-Addison-Wesley-Professional/dp/0321336313/ref=asc_df_0321336313/?tag=googshopuk-21&linkCode=df0&hvadid=310913487979&hvpos=&hvnetw=g&hvrand=17166793154720143961&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1006907&hvtargid=pla-455408936862&psc=1&th=1&psc=1)
+  - [TCP/IP Illustrated, Volume 1: The Protocols](https://www.amazon.co.uk/TCP-Illustrated-Protocols-Addison-Wesley-Professional/dp/0321336313/ref=asc_df_0321336313/?tag=googshopuk-21&linkCode=df0&hvadid=310913487979&hvpos=&hvnetw=g&hvrand=17166793154720143961&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1006907&hvtargid=pla-455408936862&psc=1&th=1&psc=1)
+
+- Youtube:
+  - [CS144, Introduction to Computer Networking](https://www.youtube.com/watch?v=qAFI-2I7wPE&ab_channel=LectureArchive)
 
 - Resources:
   - [Designs and tradeoffs in core networking protocols](https://www.ietf.org/rfc.html)
