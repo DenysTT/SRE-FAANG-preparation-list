@@ -1,4 +1,6 @@
 # SRE-FAANG-preparation-list
+This project was created to simplify preparing to SRE/PE FAANG interview and gather all required information for that.
+Feel free to contribute :)
 
 ## Operation Systems:
 - Books:
@@ -41,6 +43,8 @@
 - Resources:
   - [Designs and tradeoffs in core networking protocols](https://www.ietf.org/rfc.html)
   - [Congestion Control Algorithms](https://inst.eecs.berkeley.edu/~ee122/fa05/projects/Project2/SACKRENEVEGAS.pdf)
+
+
 
 ## Contributing
 
