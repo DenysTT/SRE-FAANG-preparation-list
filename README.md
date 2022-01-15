@@ -8,8 +8,8 @@ Feel free to contribute :)
   - [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
   - [Understanding The Linux Kernel](https://www.amazon.co.uk/Understanding-Linux-Kernel-Daniel-Plerre/dp/0596005652/ref=sr_1_1?adgrpid=54969517404&gclid=Cj0KCQiA_JWOBhDRARIsANymNObkdgHJDC9_UQl45dgYCCPjRlFYQCeBB7tPlSX0D7Imrd2tBSfGjPQaAuUAEALw_wcB&hvadid=259099026181&hvdev=c&hvlocphy=1006907&hvnetw=g&hvqmt=e&hvrand=6559118417885585185&hvtargid=kwd-296549936853&hydadcr=24458_1816148&keywords=understanding+the+linux+kernel&qid=1640337756&sr=8-1)
 - Videos:
-  - [UC Berkeley Computer Science 162, 001 - Fall 2010
-](https://www.youtube.com/watch?v=feAOZuID1HM&list=PLggtecHMfYHA7j2rF7nZFgnepu_uPuYws&ab_channel=EducationArchive)
+  - [UC Berkeley Computer Science 162, 001 - Spring 2020
+](https://www.youtube.com/watch?v=dTl9QkH4j8o&list=PL6CdojO56mZ3SeRfpzMBMObSnTziA0gfE&ab_channel=JohnKubiatowicz)
 
 ## Troubleshooting
 - Useful resources:
