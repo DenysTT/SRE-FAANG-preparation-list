@@ -15,10 +15,13 @@ Feel free to contribute :)
 - Useful resources:
   - [Linux Performance Analysis in 60,000 Milliseconds](https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
   - [Zines](https://wizardzines.com/zines/debugging/)
+- Books:
+  - [Troubleshooting framework + beginning of every chapter on how a certain system works in Linux](https://www.brendangregg.com/systems-performance-2nd-edition-book.html)
 
 ## System Design:
 - Books:
   - [Design Data Intensive Applications](https://www.amazon.co.uk/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=asc_df_1449373321/?tag=googshopuk-21&linkCode=df0&hvadid=310831942794&hvpos=&hvnetw=g&hvrand=809502831767025474&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1006907&hvtargid=pla-432535594773&psc=1&th=1&psc=1)
+  - [Chapters 19 - 27 from the SRE Book](https://sre.google/sre-book/table-of-contents/)
 - Courses(paid):
   - [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
   - [Grokking the Advanced System Design Interview](https://www.educative.io/courses/grokking-adv-system-design-intvw)
@@ -44,7 +47,14 @@ Feel free to contribute :)
   - [Designs and tradeoffs in core networking protocols](https://www.ietf.org/rfc.html)
   - [Congestion Control Algorithms](https://inst.eecs.berkeley.edu/~ee122/fa05/projects/Project2/SACKRENEVEGAS.pdf)
 
+## Behavioural:
+- [Star method](https://www.themuse.com/advice/star-interview-method)
+- [How to change anyone’s mind](https://pbs.twimg.com/media/EmzgaJbW4AEupXt?format=png&name=medium)
 
+
+## Coding:
+- If you haven’t done any preparations for coding interviews - start with https://www.manning.com/books/grokking-algorithms and  https://leetcode.com/explore/learn/
+- [Educative course](https://www.educative.io/courses/grokking-the-coding-interview)
 
 ## Contributing
 
