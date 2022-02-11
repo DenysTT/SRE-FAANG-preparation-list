@@ -5,6 +5,7 @@ Feel free to contribute :)
 ## Operation Systems:
 - Books:
   - [Advanced UNIX Programming](https://www.amazon.co.uk/Programming-Addison-Wesley-Professional-Computing-Paperback/dp/0131411543)
+  - [The Linux Programming Interface](https://www.amazon.co.uk/Linux-Programming-Interface-System-Handbook/dp/1593272200)
   - [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
   - [Understanding The Linux Kernel](https://www.amazon.co.uk/Understanding-Linux-Kernel-Daniel-Plerre/dp/0596005652/ref=sr_1_1?adgrpid=54969517404&gclid=Cj0KCQiA_JWOBhDRARIsANymNObkdgHJDC9_UQl45dgYCCPjRlFYQCeBB7tPlSX0D7Imrd2tBSfGjPQaAuUAEALw_wcB&hvadid=259099026181&hvdev=c&hvlocphy=1006907&hvnetw=g&hvqmt=e&hvrand=6559118417885585185&hvtargid=kwd-296549936853&hydadcr=24458_1816148&keywords=understanding+the+linux+kernel&qid=1640337756&sr=8-1)
 - Videos:
