@@ -31,6 +31,7 @@ Feel free to contribute :)
   - [Bigtable](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
   - [Mapreduce](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
   - [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
+  - [Twine: A Unified Cluster Management System for Shared Infrastructure](https://scontent-lcy1-1.xx.fbcdn.net/v/t39.8562-6/240836403_389005185950985_6091829722024266146_n.pdf?_nc_cat=107&ccb=1-5&_nc_sid=ad8a9d&_nc_ohc=G-quiczRT3MAX9JYaeU&_nc_ht=scontent-lcy1-1.xx&oh=00_AT-TOOI2VNIH8ownIubkDYLRvS3roq2-CMIiFy1RxF8lLg&oe=620B4406)
   - [Murder: Fast datacenter code deploys using BitTorrent](https://blog.twitter.com/engineering/en_us/a/2010/murder-fast-datacenter-code-deploys-using-bittorrent)
 - Youtube
   - [Infoq](https://www.youtube.com/nctv)
